@@ -641,7 +641,7 @@
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 export default {
-  name: "DetailPage",
+  name: "Detail",
   components: {
     Header,
     Footer,
